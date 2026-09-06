@@ -1,73 +1,73 @@
-region,target,rmse
-East,L1_Zymoseptoria_tritici_Disease_Severity,0.8508450320678035
-East,L1_Yellow_rust_Disease_Severity,0.13719034336112218
-East,L1_Zymoseptoria_tritici_Crop_Incidence,36.71269978151805
-East,L1_Yellow_rust_Crop_Incidence,10.798248597162472
-East,L2_Zymoseptoria_tritici_Disease_Severity,2.1589526282981693
-East,L2_Yellow_rust_Disease_Severity,0.222757356876871
-East,L2_Zymoseptoria_tritici_Crop_Incidence,22.389295484141137
-East,L2_Yellow_rust_Crop_Incidence,14.763487511871954
-East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.9490333853671882
-East Midlands,L1_Yellow_rust_Disease_Severity,0.13684760855293465
-East Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,26.248816929349797
-East Midlands,L1_Yellow_rust_Crop_Incidence,7.47827351870047
-East Midlands,L2_Zymoseptoria_tritici_Disease_Severity,1.4877185327669267
-East Midlands,L2_Yellow_rust_Disease_Severity,0.23384013585366634
-East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,16.496134585066603
-East Midlands,L2_Yellow_rust_Crop_Incidence,12.519311907418254
-North East,L1_Zymoseptoria_tritici_Disease_Severity,1.2709080134248885
-North East,L1_Yellow_rust_Disease_Severity,0.2321261981270755
-North East,L1_Zymoseptoria_tritici_Crop_Incidence,40.672812882555654
-North East,L1_Yellow_rust_Crop_Incidence,11.448556441669314
-North East,L2_Zymoseptoria_tritici_Disease_Severity,1.9662819054811882
-North East,L2_Yellow_rust_Disease_Severity,0.12179486437544147
-North East,L2_Zymoseptoria_tritici_Crop_Incidence,17.2140168447561
-North East,L2_Yellow_rust_Crop_Incidence,16.099390484551567
-North West,L1_Zymoseptoria_tritici_Disease_Severity,3.372287382965316
-North West,L1_Yellow_rust_Disease_Severity,0.1595587666034054
-North West,L1_Zymoseptoria_tritici_Crop_Incidence,32.560776114194375
-North West,L1_Yellow_rust_Crop_Incidence,11.291308561810995
-North West,L2_Zymoseptoria_tritici_Disease_Severity,3.327961433318612
-North West,L2_Yellow_rust_Disease_Severity,0.2659299063264308
-North West,L2_Zymoseptoria_tritici_Crop_Incidence,22.236557505176627
-North West,L2_Yellow_rust_Crop_Incidence,10.835180037618237
-South East,L1_Zymoseptoria_tritici_Disease_Severity,1.3991687025347233
-South East,L1_Yellow_rust_Disease_Severity,0.18441271207062518
-South East,L1_Zymoseptoria_tritici_Crop_Incidence,33.947966562734656
-South East,L1_Yellow_rust_Crop_Incidence,10.850135769143746
-South East,L2_Zymoseptoria_tritici_Disease_Severity,3.849520006352988
-South East,L2_Yellow_rust_Disease_Severity,0.24124056440767322
-South East,L2_Zymoseptoria_tritici_Crop_Incidence,8.503794536362461
-South East,L2_Yellow_rust_Crop_Incidence,15.18242781097697
-South West,L1_Zymoseptoria_tritici_Disease_Severity,1.024938689164356
-South West,L1_Yellow_rust_Disease_Severity,0.14174123837295988
-South West,L1_Zymoseptoria_tritici_Crop_Incidence,30.065597888546687
-South West,L1_Yellow_rust_Crop_Incidence,3.637006032118469
-South West,L2_Zymoseptoria_tritici_Disease_Severity,5.012846372072457
-South West,L2_Yellow_rust_Disease_Severity,0.2619911880809576
-South West,L2_Zymoseptoria_tritici_Crop_Incidence,13.815364080414762
-South West,L2_Yellow_rust_Crop_Incidence,20.950304522751367
-Wales,L1_Zymoseptoria_tritici_Disease_Severity,2.1640167285735505
-Wales,L1_Yellow_rust_Disease_Severity,0.10040493884625361
-Wales,L1_Zymoseptoria_tritici_Crop_Incidence,29.386439270279684
-Wales,L1_Yellow_rust_Crop_Incidence,10.414656429456421
-Wales,L2_Zymoseptoria_tritici_Disease_Severity,6.682888243494094
-Wales,L2_Yellow_rust_Disease_Severity,0.10437354442989615
-Wales,L2_Zymoseptoria_tritici_Crop_Incidence,12.308032546389331
-Wales,L2_Yellow_rust_Crop_Incidence,7.051364636258082
-West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.6926197291194116
-West Midlands,L1_Yellow_rust_Disease_Severity,0.1720104372958376
-West Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,19.410207469679502
-West Midlands,L1_Yellow_rust_Crop_Incidence,6.445344888131817
-West Midlands,L2_Zymoseptoria_tritici_Disease_Severity,1.821776226205234
-West Midlands,L2_Yellow_rust_Disease_Severity,0.2249576254046633
-West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,9.408179942688358
-West Midlands,L2_Yellow_rust_Crop_Incidence,9.551671963334194
-Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,0.5498844520345574
-Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.08711349740718452
-Yorkshire and The Humber,L1_Zymoseptoria_tritici_Crop_Incidence,37.99617416551557
-Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,12.931185185136597
-Yorkshire and The Humber,L2_Zymoseptoria_tritici_Disease_Severity,2.047656620263179
-Yorkshire and The Humber,L2_Yellow_rust_Disease_Severity,0.0922617991806408
-Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,14.699145935394245
-Yorkshire and The Humber,L2_Yellow_rust_Crop_Incidence,17.92255164494689
+"","region","target","rmse"
+"1","East Midlands","L1_Yellow_rust_Crop_Incidence",4.67748699704711
+"2","East Midlands","L1_Yellow_rust_Disease_Severity",0.123603797568857
+"3","East Midlands","L1_Zymoseptoria_tritici_Crop_Incidence",46.4377049949469
+"4","East Midlands","L1_Zymoseptoria_tritici_Disease_Severity",1.38754772247299
+"5","East Midlands","L2_Yellow_rust_Crop_Incidence",4.40645761028687
+"6","East Midlands","L2_Yellow_rust_Disease_Severity",0.562161869617061
+"7","East Midlands","L2_Zymoseptoria_tritici_Crop_Incidence",64.7535917832608
+"8","East Midlands","L2_Zymoseptoria_tritici_Disease_Severity",3.446386644074
+"9","East","L1_Yellow_rust_Crop_Incidence",3.57985678733502
+"10","East","L1_Yellow_rust_Disease_Severity",0.184567312503327
+"11","East","L1_Zymoseptoria_tritici_Crop_Incidence",46.0133774729937
+"12","East","L1_Zymoseptoria_tritici_Disease_Severity",1.68173573832627
+"13","East","L2_Yellow_rust_Crop_Incidence",4.41589750883057
+"14","East","L2_Yellow_rust_Disease_Severity",0.567475953191263
+"15","East","L2_Zymoseptoria_tritici_Crop_Incidence",63.514685756283
+"16","East","L2_Zymoseptoria_tritici_Disease_Severity",3.99950422469224
+"17","North East","L1_Yellow_rust_Crop_Incidence",7.02528656582244
+"18","North East","L1_Yellow_rust_Disease_Severity",0.331909953063111
+"19","North East","L1_Zymoseptoria_tritici_Crop_Incidence",42.4787310640764
+"20","North East","L1_Zymoseptoria_tritici_Disease_Severity",1.4682336326647
+"21","North East","L2_Yellow_rust_Crop_Incidence",8.32834515169645
+"22","North East","L2_Yellow_rust_Disease_Severity",0.107565327550488
+"23","North East","L2_Zymoseptoria_tritici_Crop_Incidence",61.0065026207562
+"24","North East","L2_Zymoseptoria_tritici_Disease_Severity",4.03148666432868
+"25","North West","L1_Yellow_rust_Crop_Incidence",13.5804421307345
+"26","North West","L1_Yellow_rust_Disease_Severity",0.519407637719093
+"27","North West","L1_Zymoseptoria_tritici_Crop_Incidence",57.3882377484035
+"28","North West","L1_Zymoseptoria_tritici_Disease_Severity",3.69635826102304
+"29","North West","L2_Yellow_rust_Crop_Incidence",14.7074201631042
+"30","North West","L2_Yellow_rust_Disease_Severity",0.613938763624428
+"31","North West","L2_Zymoseptoria_tritici_Crop_Incidence",69.5880999017827
+"32","North West","L2_Zymoseptoria_tritici_Disease_Severity",8.24997083057145
+"33","South East","L1_Yellow_rust_Crop_Incidence",6.03366350371899
+"34","South East","L1_Yellow_rust_Disease_Severity",0.336424422123085
+"35","South East","L1_Zymoseptoria_tritici_Crop_Incidence",54.2998390046883
+"36","South East","L1_Zymoseptoria_tritici_Disease_Severity",2.33428675744057
+"37","South East","L2_Yellow_rust_Crop_Incidence",4.73159961773612
+"38","South East","L2_Yellow_rust_Disease_Severity",0.496543411679065
+"39","South East","L2_Zymoseptoria_tritici_Crop_Incidence",71.801452711266
+"40","South East","L2_Zymoseptoria_tritici_Disease_Severity",6.57100770585068
+"41","South West","L1_Yellow_rust_Crop_Incidence",4.80929346643268
+"42","South West","L1_Yellow_rust_Disease_Severity",0.192491731050252
+"43","South West","L1_Zymoseptoria_tritici_Crop_Incidence",56.4800092954179
+"44","South West","L1_Zymoseptoria_tritici_Disease_Severity",2.65371799477185
+"45","South West","L2_Yellow_rust_Crop_Incidence",5.80668238505643
+"46","South West","L2_Yellow_rust_Disease_Severity",0.769902467811429
+"47","South West","L2_Zymoseptoria_tritici_Crop_Incidence",73.4114178557904
+"48","South West","L2_Zymoseptoria_tritici_Disease_Severity",7.91930545581828
+"49","Wales","L1_Yellow_rust_Crop_Incidence",8.90030956677873
+"50","Wales","L1_Yellow_rust_Disease_Severity",0.339323058878862
+"51","Wales","L1_Zymoseptoria_tritici_Crop_Incidence",57.7518662475692
+"52","Wales","L1_Zymoseptoria_tritici_Disease_Severity",2.6547751980452
+"53","Wales","L2_Yellow_rust_Crop_Incidence",9.16309137675533
+"54","Wales","L2_Yellow_rust_Disease_Severity",0.298050998283521
+"55","Wales","L2_Zymoseptoria_tritici_Crop_Incidence",68.9180503752283
+"56","Wales","L2_Zymoseptoria_tritici_Disease_Severity",8.4993515800785
+"57","West Midlands","L1_Yellow_rust_Crop_Incidence",6.91360686932119
+"58","West Midlands","L1_Yellow_rust_Disease_Severity",0.381137677546603
+"59","West Midlands","L1_Zymoseptoria_tritici_Crop_Incidence",54.1790362666778
+"60","West Midlands","L1_Zymoseptoria_tritici_Disease_Severity",1.70490478273234
+"61","West Midlands","L2_Yellow_rust_Crop_Incidence",5.46577981248138
+"62","West Midlands","L2_Yellow_rust_Disease_Severity",0.646046891951036
+"63","West Midlands","L2_Zymoseptoria_tritici_Crop_Incidence",71.0907308687813
+"64","West Midlands","L2_Zymoseptoria_tritici_Disease_Severity",5.33421125132931
+"65","Yorkshire and The Humber","L1_Yellow_rust_Crop_Incidence",5.64869206127743
+"66","Yorkshire and The Humber","L1_Yellow_rust_Disease_Severity",0.307772336735091
+"67","Yorkshire and The Humber","L1_Zymoseptoria_tritici_Crop_Incidence",47.7643742987176
+"68","Yorkshire and The Humber","L1_Zymoseptoria_tritici_Disease_Severity",2.18103713307747
+"69","Yorkshire and The Humber","L2_Yellow_rust_Crop_Incidence",4.35518163079068
+"70","Yorkshire and The Humber","L2_Yellow_rust_Disease_Severity",0.1658625810747
+"71","Yorkshire and The Humber","L2_Zymoseptoria_tritici_Crop_Incidence",64.4566370276011
+"72","Yorkshire and The Humber","L2_Zymoseptoria_tritici_Disease_Severity",4.59644219190702
